@@ -37,4 +37,6 @@ Output of the project:
 ![Screenshot 2025-01-12 154534](https://github.com/user-attachments/assets/f4133679-cf0d-4a0b-9f4e-8d8a14e35a52)
 ![Screenshot 2025-01-12 154602](https://github.com/user-attachments/assets/abee1041-1878-4712-b858-89e72eea5ce0)
 ![Screenshot 2025-01-12 154624](https://github.com/user-attachments/assets/39353cdb-f4c6-4c14-a5fa-8b57a089ea75)
+![Screenshot 2025-01-04 163924](https://github.com/user-attachments/assets/4aa2e5ea-9b9b-4c9a-a7da-27633eb961c2)
+![Screenshot 2025-01-04 164032](https://github.com/user-attachments/assets/4e3d7a5b-bd40-429c-ae7e-093e8300fa74)
 ![Screenshot 2025-01-12 154705](https://github.com/user-attachments/assets/1be712cc-9e9c-43df-b8ed-bbdbd5f91b4c)
