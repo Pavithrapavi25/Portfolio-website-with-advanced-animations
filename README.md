@@ -32,3 +32,9 @@ Accessibility Enhancements: Ensure the website is fully accessible to users with
 Advanced 3D Interactions: Enhance the Three.js integration with more interactive 3D models or animations.
 Version Control
 This project uses Git for version control, enabling easy tracking of changes and collaboration if needed. The project will be hosted on GitHub to ensure that the latest version of the website is always available and can be shared with others. Every update to the portfolio will be tracked with commits to ensure progress is saved, and the site is continuously improved.
+
+Output of the project:
+![Screenshot 2025-01-12 154534](https://github.com/user-attachments/assets/f4133679-cf0d-4a0b-9f4e-8d8a14e35a52)
+![Screenshot 2025-01-12 154602](https://github.com/user-attachments/assets/abee1041-1878-4712-b858-89e72eea5ce0)
+![Screenshot 2025-01-12 154624](https://github.com/user-attachments/assets/39353cdb-f4c6-4c14-a5fa-8b57a089ea75)
+![Screenshot 2025-01-12 154705](https://github.com/user-attachments/assets/1be712cc-9e9c-43df-b8ed-bbdbd5f91b4c)
